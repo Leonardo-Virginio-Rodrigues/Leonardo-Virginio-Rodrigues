@@ -36,3 +36,6 @@
 </div>
 
 
+![snake gif](https://github.com/Leonardo-Virginio-Rodrigues/Leonardo-Virginio-Rodrigues/blob/output/github-contribution-grid-snake.svg)
+
+
