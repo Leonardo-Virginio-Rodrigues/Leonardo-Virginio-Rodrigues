@@ -31,7 +31,7 @@ I enjoy learning new technologies, applying best practices, and exploring tools 
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leonardo-Virginio-Rodrigues&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api?username=Leonardo-Virginio-Rodrigues&theme=dark)
 
 ---
 
